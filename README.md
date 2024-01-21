@@ -1,4 +1,4 @@
-# Rifining-a-triangular-mesh
+# Refining-a-triangular-mesh
 The project we have decided to develop involves writing a series of functions capable of refining a two-dimensional domain, which is provided to us as material.
 Our task is to further cut the domain, and for this purpose, we have written a series of functions with different functionalities, such as:
 
